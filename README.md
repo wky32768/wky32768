@@ -2,7 +2,6 @@
 
 
 ![wky32768's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=wky32768&show_icons=true&count_private=true&theme=gotham)
-
 [![wky32768's GitHub stats](https://github-readme-stats.vercel.app/api?username=wky32768)](https://github.com/anuraghazra/github-readme-stats)
 
 
