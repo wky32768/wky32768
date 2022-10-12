@@ -1,25 +1,11 @@
 ### Hi there 👋
 
-
-![wky32768's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=wky32768&show_icons=true&count_private=true&theme=gotham)
-
-[![wky32768's GitHub stats](https://github-readme-stats.vercel.app/api?username=wky32768)](https://github.com/anuraghazra/github-readme-stats)
-
-![wky32768's bilibili](https://stats.justsong.cn/api/bilibili/?id=220871609)
-
-
-
-<!--
 **wky32768/wky32768** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... Hangzhou Dianzi University
+- 🌱 I’m currently learning ... Computer Science
+- 👯 I’m looking to collaborate on ... algorithm contest & AI contest
+- 💬 Ask me about ... C++ and algorithm
+- 📫 How to reach me: ... wky32768@hdu.edu.cn
