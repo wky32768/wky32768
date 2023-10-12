@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-This is Wang Keyi, a sophomore in Hangzhou Dianzi University, Hangzhou, Zhejiang, China.
+This is Wang Keyi, learning bachelor from 2021 in Hangzhou Dianzi University, Hangzhou, Zhejiang, China.
 
-You can check my profile in https://wky32768.github.io
+09.2023-01.2024 I'm exchanging in Kristianstad University, Sweden.
 
-Focusing on NLP and algorithm
+You can check my profile [here](https://wky32768.github.io)
 
-contact me in wky32768@qq.com or wky32768@hdu.edu.cn
+Focusing on NLP and algorithm, also likes language and maps
+
+contact me in wky32768@qq.com(personal) or wky32768@hdu.edu.cn(in China) or keyi.wang0013@stud.hkr.se(in sweden)
 
 ![Metrics](/github-metrics.svg)
