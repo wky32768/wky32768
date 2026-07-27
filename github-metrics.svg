@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 17 users
+                            Followed by 18 users
                         </div>
                     </section>
                     <section>
@@ -31,7 +31,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -289,10 +289,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    17 followers
+                    18 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgQFBwj/xAAvEAABAgUCAgkEAwAAAAAAAAABAgMABAUGERIhBzETFCIjQlFhgaEVQUNxdJLT/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMAAQT/xAAfEQABBAICAwAAAAAAAAAAAAABAAIDEQQhEhMxQXH/2gAMAwEAAhEDEQA/AK6mMuCrS4mFIw2+2tsNt48YG5z6wR4m3DNSl+11ltTYCZtxA7sZxmH+nTUNuSHW8f3RBq+bNar/ABCrCKdNu9cVNEqZcaABJPgOd9/OFMl3ZR9eqCHyd8VZrAbeltvuqUaJ+UxcN8Qa2pGVTEvn+Iz/AJwYuq2Zi259Eu++ytw57tCsrTy57Y3zt+ogNBWgZMN5h2whohbI5XqX05JnWeaF51eREImb3tGYrNeAEszPPKCGJ/pR2057RB2Kc7RzCHnHANaidojLWrUO0YU6IDwo2Q+11CbftO97kbkfqzHXJdkB5anDrUNjsc4Vuv1+IvhwksiV7pSZ98p/IZgJz7YjKLGmXGKNSJNjS22Wy8VoGF6lKOTq5j2xGkS94VyUaSyzPKCE8tSQT8iM2RizkDqfQ+KxM29hf//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAwUABAIGCP/EACcQAAEDAwIFBQEAAAAAAAAAAAEAAgMEBRESITFBUXLBExQiMzRh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOiFOCJBA6oMmk4ewAgdVl7QulbDLK2N7gSANyQgCDkZCiNeoRT00lRCXB5cNuW6TRz1TmAt0uHXThBsNn+yoP8AG+UzxvnmltmHwqO/wEyQKbu5znCDI9IjJGOO6ptDWjGFdu36I+1U0H//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAwYHAgUI/8QALhAAAQMDAQYCCwAAAAAAAAAAAQIDBAAFEQYSEyExQVEHcRUWIzIzQ2FigaHB/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUBAgP/xAAgEQACAgEDBQAAAAAAAAAAAAABAgARAwQSExQhMUFh/9oADAMBAAIRAxEAPwC4KvriQStAQB1JArNN+JVj2Y6+8KgbWuLs3u3ZsNpyO5yykthweYIzTRatdTb1vI1r09vFttFbimXxkDHDGRzzjvTZ9NXqKceuVzVyqesA3wZy3vDyRtDJovpd4/L/AGKSLbqS1ubtm6uR4UggLS26FlZJ77TacHyoV11JAizVtLks5SB9v8OfPNZcXyE9QtWWnMhuBJAyKedEaykWVx0ybzOMYNYaZQAW0q6cD0qTqcVnnRm5bqEKbBGz2Ionk3eYrGAr3Q1L+PERq7acYYcVAlXB0bEiNLbIbXx6LCccfry71o5d/sltkKi3HSiG5LfBSWJ6ij8VK7bIcaO0g4OKLLuUze/HWABjgakKALlGyOWqf//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCBAcI/8QAKxAAAQMDAwMEAAcAAAAAAAAAAQIDBAAFEQYhMRITQQcUUZEiQmFxgaHB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQAAQP/xAAdEQACAQQDAAAAAAAAAAAAAAAAARECExQxQVFh/9oADAMBAAIRAxEAPwBwTpdHh8/VXGNP9Iwh0D981Nch1lruhK3EfCefqrkOQ88MhpxCPlzApzIfYvb8IxrPIbOy0fxRBNvk45/ukrQetJF9u93iTS017dw9gJOD05I3JO544/WnVV1jNnpXNZSryO6mhyJ5JbgHRoMZgDtsoBHk7n7NLWvdcQ9JoaZkRpJdlNOFh1tsFvuDgE5zzimG/wAx2DbJTzHT3G0HpKhnxWBX6S/qV/3V4fcecZby2AelKNzwkbf7Sypk3bgGejsuQfUK1Fta93FBQzzlBzXViV7cVmfpTo2y2u1x7pHjFU9ZVh5xXUUZH5fitLSPwigq2Wf/2Q==" width="28" height="28" alt="" />
@@ -358,7 +359,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jul 2026, 11:09:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jul 2026, 09:55:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
